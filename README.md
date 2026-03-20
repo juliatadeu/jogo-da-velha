@@ -1,4 +1,4 @@
-# 🎮 Jogo da Velha — INF1040 2025.1
+# 🎮 Jogo da Velha - INF1040 2025.1
 
 Projeto desenvolvido para a disciplina **Programação Modular (INF1040 - PUC-Rio)**.
 
