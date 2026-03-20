@@ -37,7 +37,7 @@ O projeto foi estruturado de forma modular, separando responsabilidades entre di
 
 Cada módulo possui funções bem definidas, facilitando manutenção, testes e reutilização.
 
-![Diagrama de módulos](./assets/diagrama.png)
+![Diagrama de módulos](./diagrama.png)
 
 ### 🔗 Organização dos módulos
 
